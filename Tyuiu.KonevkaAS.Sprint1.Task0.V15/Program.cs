@@ -10,7 +10,7 @@ namespace Tyuiu.KonevkaAS.Sprint1.Task0.V0
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                              *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
-            Console.WriteLine("*Задание #1                                                              *");
+            Console.WriteLine("*Задание #0                                                              *");
             Console.WriteLine("*Вариант #15                                                               *");
             Console.WriteLine("*Выполнил: Коневка Алексей Станиславович | ПИНб-26-1                      *");
             Console.WriteLine("***************************************************************************");
