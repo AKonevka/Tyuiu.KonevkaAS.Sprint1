@@ -26,7 +26,7 @@ namespace Tyuiu.KonevkaAS.Sprint1.Task2.V16
             int x;
             Console.WriteLine("Введите радиус круга: ");
             x = Convert.ToInt32(Console.ReadLine());
-
+            
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
